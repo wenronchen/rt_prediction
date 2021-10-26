@@ -15,6 +15,7 @@ For example, the FNN model with LC dataset,
     sh  fnn_train_ot.sh $1=input $2=output
 
 Similarly, to get the results of CZE dataset, 
+
     sh  fnn_train_sw480.sh $1=input $2=output
     
 #### 2.2 Transfer learning results 
@@ -30,6 +31,6 @@ With your own dataset, you are supposed to format the input file with the follow
     SLSTFQQMWISKQEYDESGPSIVHRKCF                              6664.46
     APSRKFFVGGNWKMNGRKQSLGELIGTLNAAKVPADTEVV                  6736.14
     TAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE        6834.56
-
+Then follow the format of bash scripts for models and get your own results. 
   
 
