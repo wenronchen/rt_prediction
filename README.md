@@ -3,7 +3,7 @@
 ## Machine learning models for retention time and migration time prediction
 
 ### 1. Prerequisite
-Python 3.X and corresponding version of Pytorch, Keras and Tensorflow.
+Python 3.X and corresponding version of Sklearn, Pytorch, Keras and Tensorflow.
 
 ### 2. Scripts to reproduce the results
 
@@ -22,7 +22,14 @@ To reproduce the transfer learning results in the paper, for example, For prosit
 
     cd  model/prosit
     sh  prosit_ot_with_pretrain.sh $1=input $2=output $3=pretrained_model
-    
+
+#### 3. Use your own datasets
+With your own dataset, you are supposed to format the input file with the following information:
+
+    Proteoform                                                 RT/MT
+    SLSTFQQMWISKQEYDESGPSIVHRKCF                              6664.46
+    APSRKFFVGGNWKMNGRKQSLGELIGTLNAAKVPADTEVV                  6736.14
+    TAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE        6834.56
 
   
 
