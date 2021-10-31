@@ -28,9 +28,9 @@ To reproduce the transfer learning results in the paper, for example, For prosit
 With your own dataset, you are supposed to format the input file with the following information:
 
         Proteoform                                             RT/MT
-    SLSTFQQMWISKQEYDESGPSIVHRKCF                              6664.46
-    APSRKFFVGGNWKMNGRKQSLGELIGTLNAAKVPADTEVV                  6736.14
-    TAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE        6834.56
+    SLSTFQQMWISKQEYDESGPSIVHRKCF                               0.617
+    APSRKFFVGGNWKMNGRKQSLGELIGTLNAAKVPADTEVV                   0.624
+    TAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE         0.632
 Then follow the format of bash scripts for models and get your own results. 
   
 
