@@ -27,7 +27,7 @@ To reproduce the transfer learning results in the paper, for example, For prosit
 #### 3. Use your own datasets
 With your own dataset, you are supposed to format the input file with the following information:
 
-        Proteoform                                             RT/MT
+        Proteoform                                             RT/MT norm
     SLSTFQQMWISKQEYDESGPSIVHRKCF                               0.617
     APSRKFFVGGNWKMNGRKQSLGELIGTLNAAKVPADTEVV                   0.624
     TAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE         0.632
