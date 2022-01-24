@@ -7,9 +7,12 @@ Python 3.X and corresponding version of Sklearn, Pytorch, Keras and Tensorflow.
 ### 2. Datasets
 Two top-down datasets and two bottom-up datasets for pretraining are included in the respository.
 #### 2.1 LC data sets
-    - LC-OT:  
-    - dia:
+- LC-OT: The data set was generated from ovarian tumor samples with top-down MS. It contains 610 proteoforms (473 entries for training, 173 entries for testing)
+- LC-dia: The data set was generated from 24 human cell lines and tissues with bottom-up MS. It contains 146, 587 peptides in total. 
 
+#### 2.2 CZE data sets
+- CZE-SW480: The data set was generated from SW480 cell lines with top-down MS. It contains 1230 proteoforms (981 entries for training, 249 entries for testing)
+- CZE-HeLa: The data set was generated from HeLa cell lines with bottom-up MS. It contains 4234 peptides in total. 
 
 ### 3. Scripts to reproduce the results
 
