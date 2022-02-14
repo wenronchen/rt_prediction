@@ -1,4 +1,4 @@
-RT	experimental_mobility	Adjusted precursor mass	sequence	charge_count	Percolator q-Value	normalized_experimental_mt
+MT	experimental_mobility	Adjusted precursor mass	sequence	charge_count	Percolator q-Value	normalized_experimental_mt
 1938.984	0.0373793043238524	3342.77459	VLLSLEHGLWAPNLHFHSPNPEIPALLDGR	5	0.0005205	7739.1947099752715
 2450.178	0.0316202046619838	1833.91299	ILFIFIDSDHTDNQR	3	0.000773	9148.761602846784
 3474.378	0.0251807249855285	1939.02835	LLQQVSQIYQSIEFSR	2	0.0	11488.379085668437
