@@ -9,12 +9,12 @@ Two top-down datasets and two bottom-up datasets for pretraining are included in
 #### 2.1 LC data sets
 - LC-ONE: The data set was generated from ovarian tumor samples with top-down MS. It contains 610 proteoforms (473 entries for training, 173 entries for testing).
 - LC-TEN: The data set was combined with 10 replicates of ovarian tumor data set. It contains 1010 proteoforms (764 entries for training, 274 entries for testing).
-- LC-dia: The data set was generated from 24 human cell lines and tissues with bottom-up MS. It contains 146, 587 peptides in total. 
+- LC-PEPTIDE: The data set was generated from 24 human cell lines and tissues with bottom-up MS. It contains 146, 587 peptides in total. 
 
 #### 2.2 CZE data sets
 - CZE-ONE: The data set was generated from SW480 cell lines with top-down MS. It contains 1230 proteoforms (981 entries for training, 249 entries for testing).
 - CZE-ALL: The data set was combined with 3 replicates of SW480 data set and 3 replicates of SW620 data set. It contains 2914 proteoforms (2105 entries for training, 809 entries for testing).
-- CZE-HeLa: The data set was generated from HeLa cell lines with bottom-up MS. It contains 4234 peptides in total. 
+- CZE-PEPTIDE: The data set was generated from HeLa cell lines with bottom-up MS. It contains 4234 peptides in total. 
 
 ### 3. Scripts to reproduce the results
 
