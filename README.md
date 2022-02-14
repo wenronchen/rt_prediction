@@ -8,7 +8,7 @@ Python 3.X and corresponding version of Sklearn, Pytorch, Keras and Tensorflow.
 Two top-down datasets and two bottom-up datasets for pretraining are included in the respository.
 #### 2.1 LC data sets
 - LC-ONE: The data set was generated from ovarian tumor samples with top-down MS. It contains 610 proteoforms (473 entries for training, 173 entries for testing).
-- LC-TEN: The data set was combined with 10 replicates of ovarian tumor data set. It contains 1010 proteoforms (764 entries for training, 274 entries for testing).
+- LC-TEN: The data set was combined with 10 replicates of ovarian tumor data set. It contains 1010 proteoforms (736 entries for training, 274 entries for testing).
 - LC-PEPTIDE: The data set was generated from 24 human cell lines and tissues with bottom-up MS. It contains 146, 587 peptides in total. 
 
 #### 2.2 CZE data sets
