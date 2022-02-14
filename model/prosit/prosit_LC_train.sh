@@ -1,11 +1,11 @@
 max_seq=200  
-max_rt=10800
+max_rt=1
 min_rt=0
 dropout_rate=0.5
 dense_dropout=0.1
 pretrained=0
 pretrain_path=none
-y_attr='Feature apex' 
+y_attr='RT norm' 
 
 cnt=1
 for GRU_unit in 512  
