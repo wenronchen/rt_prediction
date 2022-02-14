@@ -4,9 +4,9 @@ fold_k=1
 batch_size=8
 epoch=12000
 activation_function=sigmoid
-y_object='Feature apex'
+y_object='RT norm'
 lr=1e-6
-max_rt=10800 
+max_rt=1 
 hidden_layer=3
 
 cnt=1
