@@ -1,8 +1,8 @@
 max_seq=200
-max_rt=24972
+max_rt=1
 min_rt=0
 dropout_rate=0.5
-y_attr=normalized_experimental_mt
+y_attr='MT norm'
 
 
 cnt=1
