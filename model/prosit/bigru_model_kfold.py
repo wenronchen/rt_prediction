@@ -66,7 +66,7 @@ max_seq=int(sys.argv[3])
 max_rt=float(sys.argv[4])
 min_rt=float(sys.argv[5])
 
-GRU_untis=int(sys.argv[6])
+GRU_units=int(sys.argv[6])
 embed_out=int(sys.argv[7])
 dense_feature=int(sys.argv[8])
 dropout_rate=float(sys.argv[9])
